@@ -1,0 +1,27 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "homework utilizing mongoDB and mongoose",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.13.4",
+    "express-handlebars": "^3.0.0",
+    "mongojs": "^2.3.0",
+    "body-parser": "^1.18.2",
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiasirrine/mongoose.git"
+  },
+  "author": "Tia Sirrine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiasirrine/mongoose/issues"
+  },
+  "homepage": "https://github.com/tiasirrine/mongoose#readme"
+}
