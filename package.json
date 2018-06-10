@@ -4,11 +4,12 @@
   "description": "homework utilizing mongoDB and mongoose",
   "main": "index.js",
   "dependencies": {
-    "express": "4.13.4",
-    "express-handlebars": "^3.0.0",
-    "mongojs": "^2.3.0",
+    "axios": "0.18.0",
     "body-parser": "^1.18.2",
     "cheerio": "^0.20.0",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "5.1.4",
     "request": "^2.69.0"
   },
   "scripts": {
